@@ -8,4 +8,4 @@ it will give you four basic arithmetic operations to operate on these numbers.
 About Password generator:
 it asks the user to enter length of password and then generates a random password of that length.
 
-**All these programs are easy to use and can be simply used without any IDE. All you need is a PC that have python installed.**
+**All these programs are easy to use and can be simply used without any IDE. All you need is a PC that has python installed.**
