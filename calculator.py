@@ -18,3 +18,4 @@ elif sign=="*":
 elif sign=="/":
     result=no1/no2
 print("Your result is:",result)
+input("Press enter to exit")
